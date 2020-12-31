@@ -1,2 +1,3 @@
 # Ignore cache of python
 __pycache__/
+**/entrada.txt
