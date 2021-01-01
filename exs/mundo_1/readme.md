@@ -8,7 +8,7 @@
 | 004        | C#                  | C++                  | [Python](./python/004.py) |
 | 005        | [C#](./c%23/005.cs) | [C++](./c++/005.cpp) | [Python](./python/005.py) |
 | 006        | C#                  | [C++](./c++/006.cpp) | [Python](./python/006.py) |
-| 030        | C#                  | [C++](./c++/007.cpp) | [Python](./python/007.py) |
+| 007        | C#                  | [C++](./c++/007.cpp) | [Python](./python/007.py) |
 | 008        | C#                  | [C++](./c++/008.cpp) | [Python](./python/008.py) |
 | 009        | C#                  | [C++](./c++/009.cpp) | [Python](./python/009.py) |
 | 010        | C#                  | [C++](./c++/010.cpp) | [Python](./python/010.py) |
