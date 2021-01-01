@@ -1,9 +1,10 @@
-// Crie um script que leia dois números e tente mostrar a soma entre eles
+// crie um script que leia dois números e tente mostrar a soma entre eles
 
 using System;
 
+// input separado em uma classe própria, para facilitar a leitura
 class IO {
-    public static string input(string text) {
+    public string input(string text) {
         Console.Write(text);
         return Console.ReadLine();
     }
@@ -11,6 +12,7 @@ class IO {
 
 class Program {
     public static void Main() {
+        // instância da classe
         IO IO = new IO();
         
         float num1 = float.Parse(IO.input(
