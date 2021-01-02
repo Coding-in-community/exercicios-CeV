@@ -1,48 +1,48 @@
 # Linguagens
 
-| Exercícios | C#                  | C++                  |  Python                   |
-| ---------- | ------------------- | -------------------- | ------------------------  |
-| 072        | C#                  | C++                  | [Python](./python/072.py) |
-| 073        | C#                  | C++                  | [Python](./python/073.py) |
-| 074        | C#                  | C++                  | [Python](./python/074.py) |
-| 075        | C#                  | C++                  | [Python](./python/075.py) |
-| 076        | C#                  | C++                  | [Python](./python/076.py) |
-| 077        | C#                  | C++                  | [Python](./python/077.py) |
-| 078        | C#                  | C++                  | [Python](./python/078.py) |
-| 079        | C#                  | C++                  | [Python](./python/079.py) |
-| 080        | C#                  | C++                  | [Python](./python/080.py) |
-| 081        | C#                  | C++                  | [Python](./python/081.py) |
-| 082        | C#                  | C++                  | [Python](./python/082.py) |
-| 083        | C#                  | C++                  | [Python](./python/083.py) |
-| 084        | C#                  | C++                  | [Python](./python/084.py) |
-| 085        | C#                  | C++                  | [Python](./python/085.py) |
-| 086        | C#                  | C++                  | [Python](./python/086.py) |
-| 087        | C#                  | C++                  | [Python](./python/087.py) |
-| 088        | C#                  | C++                  | [Python](./python/088.py) |
-| 089        | C#                  | C++                  | [Python](./python/089.py) |
-| 090        | C#                  | C++                  | [Python](./python/090.py) |
-| 091        | C#                  | C++                  | [Python](./python/091.py) |
-| 092        | C#                  | C++                  | [Python](./python/092.py) |
-| 093        | C#                  | C++                  | [Python](./python/093.py) |
-| 094        | C#                  | C++                  | [Python](./python/094.py) |
-| 095        | C#                  | C++                  | [Python](./python/095.py) |
-| 096        | C#                  | C++                  | [Python](./python/096.py) |
-| 097        | C#                  | C++                  | [Python](./python/097.py) |
-| 098        | C#                  | C++                  | [Python](./python/098.py) |
-| 099        | C#                  | C++                  | [Python](./python/099.py) |
-| 100        | C#                  | C++                  | [Python](./python/100.py) |
-| 101        | C#                  | C++                  | [Python](./python/101.py) |
-| 102        | C#                  | C++                  | [Python](./python/102.py) |
-| 103        | C#                  | C++                  | [Python](./python/103.py) |
-| 104        | C#                  | C++                  | [Python](./python/104.py) |
-| 105        | C#                  | C++                  | [Python](./python/105.py) |
-| 106        | C#                  | C++                  | [Python](./python/106.py) |
-| 107        | C#                  | C++                  | [Python](./python/107.py) |
-| 108        | C#                  | C++                  | [Python](./python/108.py) |
-| 109        | C#                  | C++                  | [Python](./python/109.py) |
-| 110        | C#                  | C++                  | [Python](./python/110.py) |
-| 111        | C#                  | C++                  | [Python](./python/111.py) |
-| 112        | C#                  | C++                  | [Python](./python/112.py) |
-| 113        | C#                  | C++                  | [Python](./python/113.py) |
-| 114        | C#                  | C++                  | [Python](./python/114.py) |
-| 115        | C#                  | C++                  | [Python](./python/115.py) |
+| Exercícios | C#  | C++ | Python                    | Java | JavaScript |
+| ---------- | --- | --- | ------------------------- | ---- | ---------- |
+| 072        | C#  | C++ | [Python](./python/072.py) | Java | JavaScript |
+| 073        | C#  | C++ | [Python](./python/073.py) | Java | JavaScript |
+| 074        | C#  | C++ | [Python](./python/074.py) | Java | JavaScript |
+| 075        | C#  | C++ | [Python](./python/075.py) | Java | JavaScript |
+| 076        | C#  | C++ | [Python](./python/076.py) | Java | JavaScript |
+| 077        | C#  | C++ | [Python](./python/077.py) | Java | JavaScript |
+| 078        | C#  | C++ | [Python](./python/078.py) | Java | JavaScript |
+| 079        | C#  | C++ | [Python](./python/079.py) | Java | JavaScript |
+| 080        | C#  | C++ | [Python](./python/080.py) | Java | JavaScript |
+| 081        | C#  | C++ | [Python](./python/081.py) | Java | JavaScript |
+| 082        | C#  | C++ | [Python](./python/082.py) | Java | JavaScript |
+| 083        | C#  | C++ | [Python](./python/083.py) | Java | JavaScript |
+| 084        | C#  | C++ | [Python](./python/084.py) | Java | JavaScript |
+| 085        | C#  | C++ | [Python](./python/085.py) | Java | JavaScript |
+| 086        | C#  | C++ | [Python](./python/086.py) | Java | JavaScript |
+| 087        | C#  | C++ | [Python](./python/087.py) | Java | JavaScript |
+| 088        | C#  | C++ | [Python](./python/088.py) | Java | JavaScript |
+| 089        | C#  | C++ | [Python](./python/089.py) | Java | JavaScript |
+| 090        | C#  | C++ | [Python](./python/090.py) | Java | JavaScript |
+| 091        | C#  | C++ | [Python](./python/091.py) | Java | JavaScript |
+| 092        | C#  | C++ | [Python](./python/092.py) | Java | JavaScript |
+| 093        | C#  | C++ | [Python](./python/093.py) | Java | JavaScript |
+| 094        | C#  | C++ | [Python](./python/094.py) | Java | JavaScript |
+| 095        | C#  | C++ | [Python](./python/095.py) | Java | JavaScript |
+| 096        | C#  | C++ | [Python](./python/096.py) | Java | JavaScript |
+| 097        | C#  | C++ | [Python](./python/097.py) | Java | JavaScript |
+| 098        | C#  | C++ | [Python](./python/098.py) | Java | JavaScript |
+| 099        | C#  | C++ | [Python](./python/099.py) | Java | JavaScript |
+| 100        | C#  | C++ | [Python](./python/100.py) | Java | JavaScript |
+| 101        | C#  | C++ | [Python](./python/101.py) | Java | JavaScript |
+| 102        | C#  | C++ | [Python](./python/102.py) | Java | JavaScript |
+| 103        | C#  | C++ | [Python](./python/103.py) | Java | JavaScript |
+| 104        | C#  | C++ | [Python](./python/104.py) | Java | JavaScript |
+| 105        | C#  | C++ | [Python](./python/105.py) | Java | JavaScript |
+| 106        | C#  | C++ | [Python](./python/106.py) | Java | JavaScript |
+| 107        | C#  | C++ | [Python](./python/107.py) | Java | JavaScript |
+| 108        | C#  | C++ | [Python](./python/108.py) | Java | JavaScript |
+| 109        | C#  | C++ | [Python](./python/109.py) | Java | JavaScript |
+| 110        | C#  | C++ | [Python](./python/110.py) | Java | JavaScript |
+| 111        | C#  | C++ | [Python](./python/111.py) | Java | JavaScript |
+| 112        | C#  | C++ | [Python](./python/112.py) | Java | JavaScript |
+| 113        | C#  | C++ | [Python](./python/113.py) | Java | JavaScript |
+| 114        | C#  | C++ | [Python](./python/114.py) | Java | JavaScript |
+| 115        | C#  | C++ | [Python](./python/115.py) | Java | JavaScript |
