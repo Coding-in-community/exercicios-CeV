@@ -1,7 +1,7 @@
 # Linguagens
 
-| Exercícios | C#                  | C++                  |  Python                   |
-| ---------- | ------------------- | -------------------- | ------------------------  |
+| Exercícios | C#                  | C++                  | Python                    |
+| ---------- | ------------------- | -------------------- | ------------------------- |
 | 001        | [C#](./c%23/001.cs) | [C++](./c++/001.cpp) | [Python](./python/001.py) |
 | 002        | [C#](./c%23/002.cs) | [C++](./c++/002.cpp) | [Python](./python/002.py) |
 | 003        | [C#](./c%23/003.cs) | [C++](./c++/003.cpp) | [Python](./python/003.py) |
@@ -12,13 +12,13 @@
 | 008        | C#                  | [C++](./c++/008.cpp) | [Python](./python/008.py) |
 | 009        | C#                  | [C++](./c++/009.cpp) | [Python](./python/009.py) |
 | 010        | C#                  | [C++](./c++/010.cpp) | [Python](./python/010.py) |
-| 011        | C#                  | C++                  | [Python](./python/011.py) |
-| 012        | C#                  | C++                  | [Python](./python/012.py) |
-| 013        | C#                  | C++                  | [Python](./python/013.py) |
-| 014        | C#                  | C++                  | [Python](./python/014.py) |
-| 015        | C#                  | C++                  | [Python](./python/015.py) |
-| 016        | C#                  | C++                  | [Python](./python/016.py) |
-| 017        | C#                  | C++                  | [Python](./python/017.py) |
+| 011        | C#                  | [C++](./c++/011.cpp) | [Python](./python/011.py) |
+| 012        | C#                  | [C++](./c++/012.cpp) | [Python](./python/012.py) |
+| 013        | C#                  | [C++](./c++/013.cpp) | [Python](./python/013.py) |
+| 014        | C#                  | [C++](./c++/014.cpp) | [Python](./python/014.py) |
+| 015        | C#                  | [C++](./c++/015.cpp) | [Python](./python/015.py) |
+| 016        | C#                  | [C++](./c++/016.cpp) | [Python](./python/016.py) |
+| 017        | C#                  | [C++](./c++/017.cpp) | [Python](./python/017.py) |
 | 018        | C#                  | C++                  | [Python](./python/018.py) |
 | 019        | C#                  | C++                  | [Python](./python/019.py) |
 | 020        | C#                  | C++                  | [Python](./python/020.py) |
