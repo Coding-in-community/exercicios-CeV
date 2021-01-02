@@ -1,3 +1,12 @@
+/*
+
+017 - Catetos e hipotenusa
+  Faça um programa que leia o comprimento do cateto oposto (co) e do cateto
+  adjacente (ca) de um triângulo retângulo, calcule e mostre o comprimento da
+  hipotenusa
+
+*/
+
 #include <iostream>
 #include <cmath>
 

@@ -1,3 +1,11 @@
+/*
+
+007 - Média aritmética
+  Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a
+  sua média
+
+*/
+
 #include <iostream>
 
 using namespace std;
