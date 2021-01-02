@@ -6,7 +6,7 @@
 | 002        | [C#](./c%23/002.cs) | [C++](./c++/002.cpp) | [Python](./python/002.py) | [Java](./java/002.java) | JavaScript |
 | 003        | [C#](./c%23/003.cs) | [C++](./c++/003.cpp) | [Python](./python/003.py) | [Java](./java/003.java) | JavaScript |
 | 004        | [C#](./c%23/004.cs) | C++                  | [Python](./python/004.py) | Java                    | JavaScript |
-| 005        | [C#](./c%23/005.cs) | [C++](./c++/005.cpp) | [Python](./python/005.py) | Java                    | JavaScript |
+| 005        | [C#](./c%23/005.cs) | [C++](./c++/005.cpp) | [Python](./python/005.py) | [Java](./java/005.java) | JavaScript |
 | 006        | [C#](./c%23/006.cs) | [C++](./c++/006.cpp) | [Python](./python/006.py) | Java                    | JavaScript |
 | 007        | [C#](./c%23/007.cs) | [C++](./c++/007.cpp) | [Python](./python/007.py) | Java                    | JavaScript |
 | 008        | [C#](./c%23/008.cs) | [C++](./c++/008.cpp) | [Python](./python/008.py) | Java                    | JavaScript |
