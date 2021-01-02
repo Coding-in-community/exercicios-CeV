@@ -7,11 +7,11 @@
 | 003        | [C#](./c%23/003.cs) | [C++](./c++/003.cpp) | [Python](./python/003.py) | [Java](./java/003.java) | JavaScript |
 | 004        | [C#](./c%23/004.cs) | C++                  | [Python](./python/004.py) | Java                    | JavaScript |
 | 005        | [C#](./c%23/005.cs) | [C++](./c++/005.cpp) | [Python](./python/005.py) | [Java](./java/005.java) | JavaScript |
-| 006        | [C#](./c%23/006.cs) | [C++](./c++/006.cpp) | [Python](./python/006.py) | Java                    | JavaScript |
-| 007        | [C#](./c%23/007.cs) | [C++](./c++/007.cpp) | [Python](./python/007.py) | Java                    | JavaScript |
-| 008        | [C#](./c%23/008.cs) | [C++](./c++/008.cpp) | [Python](./python/008.py) | Java                    | JavaScript |
-| 009        | [C#](./c%23/009.cs) | [C++](./c++/009.cpp) | [Python](./python/009.py) | Java                    | JavaScript |
-| 010        | [C#](./c%23/010.cs) | [C++](./c++/010.cpp) | [Python](./python/010.py) | Java                    | JavaScript |
+| 006        | [C#](./c%23/006.cs) | [C++](./c++/006.cpp) | [Python](./python/006.py) | [Java](./java/006.java) | JavaScript |
+| 007        | [C#](./c%23/007.cs) | [C++](./c++/007.cpp) | [Python](./python/007.py) | [Java](./java/007.java) | JavaScript |
+| 008        | [C#](./c%23/008.cs) | [C++](./c++/008.cpp) | [Python](./python/008.py) | [Java](./java/008.java) | JavaScript |
+| 009        | [C#](./c%23/009.cs) | [C++](./c++/009.cpp) | [Python](./python/009.py) | [Java](./java/009.java) | JavaScript |
+| 010        | [C#](./c%23/010.cs) | [C++](./c++/010.cpp) | [Python](./python/010.py) | [Java](./java/010.java) | JavaScript |
 | 011        | C#                  | [C++](./c++/011.cpp) | [Python](./python/011.py) | Java                    | JavaScript |
 | 012        | C#                  | [C++](./c++/012.cpp) | [Python](./python/012.py) | Java                    | JavaScript |
 | 013        | C#                  | [C++](./c++/013.cpp) | [Python](./python/013.py) | Java                    | JavaScript |
