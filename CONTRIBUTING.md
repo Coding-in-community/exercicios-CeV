@@ -2,16 +2,16 @@
 
 ## Index
 
-- [Como contribuir?](#como-contribuir?)
+- [Como contribuir?](#como-contribuir)
    - [1º Passo](#1º-passo) - Fork
-   - [2º Passo](#1º-passo) - Clonagem
-   - [3º Passo](#1º-passo) - Add linke para repositório oficial
-   - [4º Passo](#1º-passo) - Crie uma branch para contribuir
-   - [5º Passo](#1º-passo) - Adicione e commite a contribuição
-   - [6º Passo](#1º-passo) - Envie a branch com a contribuição para o fork
-   - [7º Passo](#1º-passo) - Faça o pull requets da branch para o projeto oficial
-- [Contribuição aprovada, o quê fazer?](#contribuição-aprovada-o-quê-fazer?)
-- [Sincronizando o fork/clone com o repositório oficial](#sincronizando-o-fork/clone-com-o-repositório-oficial)
+   - [2º Passo](#2º-passo) - Clonagem
+   - [3º Passo](#3º-passo) - Add linke para repositório oficial
+   - [4º Passo](#4º-passo) - Crie uma branch para contribuir
+   - [5º Passo](#5º-passo) - Adicione e commite a contribuição
+   - [6º Passo](#6º-passo) - Envie a branch com a contribuição para o fork
+   - [7º Passo](#7º-passo) - Faça o pull requets da branch para o projeto oficial
+- [Contribuição aprovada, o quê fazer?](#contribuição-aprovada-o-quê-fazer)
+- [Sincronizando o fork/clone com o repositório oficial](#sincronizando-o-forkclone-com-o-repositório-oficial)
 
 
 ## Como contribuir?
