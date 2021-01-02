@@ -169,5 +169,5 @@ Pronto, ambiente local e remoto sincronizado com o oficial.
 
 Caso tenha dúvida com algum comando usado ou queira entender melhor, veja um dos links abaixo:
 
-- [Documentação do git](#https://git-scm.com/docs)
-- [Curso de Git - Rodrigo Branas](#https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1)
+- [Documentação do git](https://git-scm.com/docs)
+- [Curso de Git - Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1)
