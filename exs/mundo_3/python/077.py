@@ -14,7 +14,7 @@ palavras = ('carro', 'programar', 'futuro', 'mercado', 'desenvolvimento',
 # Tupla com todas vogais
 vogais = ('a', 'e', 'i', 'o', 'u')
 
-# OBS: Sistema de cores ANSI funciona somente no PyCharm que usa
+# OBS: Sistema de cores ANSI só funciona em ambientes que usam
 # essa codificação, caso não tenha-o, basta tirar as cores \33[33m excluindo-as
 print()
 

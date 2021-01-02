@@ -8,7 +8,7 @@ Problema: Faça um programa que leia um número
 Resolução do problemas:
 """
 numero = int(input('Informe um valor: '))
-qtdDivisao = 0  # Quantidade de divisões realizadas
+qtdDivisao = 0
 
 for c in range(1, numero + 1):
 
