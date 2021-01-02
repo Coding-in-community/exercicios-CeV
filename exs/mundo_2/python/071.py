@@ -10,7 +10,7 @@ Problema: Crie um programa que simule o funcionamento de um caixa eletrônico.
 Resolução do problema:
 """
 print('=' * 35 + f'\n{"  CAIXA ELETRÔNICO  ":-^35}\n' + '=' * 35)  # Layout caixa eletrônico
-valorSaque = int(input('VALOR SAQUE: R$'))  # Solicitando valor para saque
+valorSaque = int(input('VALOR SAQUE: R$'))
 print('-' * 35)
 
 cedula50, cedula20, cedula10, cedula1 = 0, 0, 0, 0

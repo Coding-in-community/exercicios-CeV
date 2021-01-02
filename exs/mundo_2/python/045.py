@@ -5,11 +5,10 @@ Problema: Crie um programa que faça o computador jogar Jokenpô com você.
 
 Resolução do problema:
 """
-from random import randint  # Importanda da Lib random o modulo randint
+from random import randint
 lista_jogada = ['Pedra', 'Papel', 'Tesoura']
 computador = randint(0, 2)  # Sorteando número de 0 a 2
 
-# Solicitando um valor e subtraindo 1 dele
 jogador = int(input('[ 1 ] Pedra \n[ 2 ] Papel \n[ 3 ] Tesoura \nEscolha uma opção: ')) - 1
 
 # Verificação da situação do jogo, ganhador/empate

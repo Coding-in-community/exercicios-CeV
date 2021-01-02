@@ -1,2 +1,6 @@
 # Ignore cache of python
 __pycache__/
+
+# for c++ files
+**/entrada.txt
+**/main
