@@ -15,6 +15,7 @@
 - [Sincronizando o fork/clone com o repositório oficial](#sincronizando-o-forkclone-com-o-repositório-oficial)
    - [Sincronize o clone](#sincronize-o-clone)
    - [Sincronize o fork](#sincronize-o-fork)
+- [Links úteis](#links-úteis)
 
 
 ## Como contribuir?
@@ -162,3 +163,11 @@ $ git push origin main
 ```
 
 Pronto, ambiente local e remoto sincronizado com o oficial.
+
+
+## Links úteis
+
+Caso tenha dúvida com algum comando usado ou queira entender melhor, veja um dos links abaixo:
+
+- [Documentação do git](#https://git-scm.com/docs)
+- [Curso de Git - Rodrigo Branas](#https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1)
