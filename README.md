@@ -1,4 +1,4 @@
-# Exercicios - CeV
+# Exercícios - CeV
 
 [Curso em Vídeo](https://www.cursoemvideo.com/):
 
@@ -16,6 +16,6 @@
 
 Todo tipo de contribuição é bem-vinda, nós admiramos isso!
 
-Tem algum problema? Encontrou um bug ou exercício incorreto? Tem alguma dica ou queira propor uma nova tech? Abra uma [issue](https://github.com/Coding-in-community/exercicios-CeV/issues) descrevendo.
+Tem algum problema? Encontrou um bug ou exercício incorreto? Tem alguma dica? Abra uma [issue](https://github.com/Coding-in-community/exercicios-CeV/issues) descrevendo.
 
 E caso queira contribuir com código, pedimos que antes leia [CONTRIBUTING.md](https://github.com/matheusfelipeog/exercicios-CeV/blob/feature/contribution_guide/CONTRIBUTING.md)
