@@ -1,0 +1,22 @@
+<html>
+    <title>
+        Audio
+    </title>
+    <body>
+        <h1>Audio</h1>
+        <audio src="radioactive.mp3"></audio>
+        <button>Play</button>
+    </body>
+
+    <script>
+            const button = document.querySelector('button') //Pegando elemento button
+
+            //Fazendo uma simples função para quando clicar no button o evento será disparado, que no caso é a musica.
+            button.addEventListener('click', function(){   
+
+            const audio = document.querySelector('audio')
+            audio.play()
+
+})
+    </script>
+</html>
