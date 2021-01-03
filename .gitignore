@@ -1,6 +1,11 @@
 # Ignore cache of python
 __pycache__/
 
-# for c++ files
+# for c++
 **/entrada.txt
 **/main
+
+# for javascript
+**/node_modules/**/*
+**/package.json
+**/package-lock.json
