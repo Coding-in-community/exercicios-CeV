@@ -3,7 +3,7 @@ Desafio 003
 
 Problema: Crie um programa que leia dois números e mostre a soma entre eles.
 
-esolução do problema:
+Resolução do problema:
 =end
 
 
