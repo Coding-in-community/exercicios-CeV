@@ -1,17 +1,7 @@
-// crie um script que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado
+// crie um programa que escreva "Olá mundo" na tela
 
-using System;
-
-class Program {
-    // método chamado para executar o programa
-    static void Main(string[] args) {
-        string nome;
-    
-        Console.Write("Qual o seu nome? ");
-        nome = Console.ReadLine();
-        
-        Console.WriteLine($"Bem vindo, {nome}");
-    }
+class MainClass {
+  public static void Main (string[] args) {
+    Console.WriteLine ("Olá mundo");
+  }
 }
-
-// A interpolação, método que te permite colocar uma variável no meio da string é feita usando chaves {}, também é necessário o cifrão $ no começo
