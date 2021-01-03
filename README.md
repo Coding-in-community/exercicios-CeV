@@ -2,9 +2,15 @@
 
 [Curso em Vídeo](https://www.cursoemvideo.com/):
 
-1. [Mundo 1 - Fundamentos](exs/mundo_1/readme.md#linguagens)
-2. [Mundo 2 - Estrutura de Controle](exs/mundo_2/readme.md#linguagens)
-3. [Mundo 3 - Estruturas Compostas](exs/mundo_3/readme.md#linguagens)
+1. Mundo 1 - Fundamentos
+* [Enunciados](exs/mundo_1/enunciados.md)
+* [Resoluções](exs/mundo_1/readme.md#linguagens)
+2. Mundo 2 - Estrutura de Controle
+* Enunciados
+* [Resoluções](exs/mundo_2/readme.md#linguagens)
+3. Mundo 3 - Estruturas Compostas
+* Enunciados
+* [Resoluções](exs/mundo_3/readme.md#linguagens)
 
 ## Contribuidores
 
