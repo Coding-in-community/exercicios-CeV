@@ -14,4 +14,3 @@ console.log(`Unidade ${u.toFixed(0)}`) //toFixed é para tirar as casas decimais
 console.log(`Dezena ${d.toFixed(0)}`)
 console.log(`Centena ${c.toFixed(0)}`)
 console.log(`Milhar ${m.toFixed(0)}`)
-

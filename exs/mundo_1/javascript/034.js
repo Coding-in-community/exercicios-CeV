@@ -13,4 +13,3 @@ else {
     let calculo = Number(aumento) + Number(sal)
     console.log(`Com o aumento de 15%, o seu salário foi de R$ ${sal} para ${calculo}`)
 }
-
