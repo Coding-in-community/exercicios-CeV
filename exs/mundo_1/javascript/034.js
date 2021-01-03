@@ -1,3 +1,14 @@
+/*
+Desafio 034
+
+Problema: Escreva um programa que pergunte o salário de um funcionário
+          e calcule o valor do seu aumento. Para salários superiores a
+          R$1250,00, calcule um aumento de 10%. Para os inferiores ou
+          iguais, o aumento é de 15%.
+
+Resolução do problema:
+*/
+
 const input = require('readline-sync').question //Chamando o modulo readline-sync para entrada de dados
 
 let sal = input("Digite seu salário: ") // Entrada de dados

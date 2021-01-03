@@ -1,3 +1,14 @@
+/*
+Desafio 031
+
+Problema: Desenvolva um programa que pergunte a distância de
+          uma viagem em Km. Calcule o preço da passagem, cobrando
+          R$0,50 por Km para viagens de até 200Km e R$0,45 parta
+          viagens mais longas.
+
+Resolução do problema:
+*/
+
 const input = require('readline-sync').question //Chamando o modulo readline-sync para entrada de dados
 
 //Entrada de dados

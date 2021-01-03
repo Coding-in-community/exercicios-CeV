@@ -1,3 +1,11 @@
+/*
+Desafio 030
+
+Problema:  Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+
+Resolução do problema:
+*/
+
 const input = require('readline-sync').question //Chamando o modulo readline-sync para entrada de dados
 
 let n = input("Descubra se o numero é par ou impar: ")

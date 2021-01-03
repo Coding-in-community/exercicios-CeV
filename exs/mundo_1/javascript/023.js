@@ -1,3 +1,11 @@
+/*
+Desafio 023
+
+Problema: Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+
+Resolução do problema:
+*/
+
 const input = require('readline-sync').question //Chamando o modulo readline-sync para entrada de dados
 
 //Entrada de dados

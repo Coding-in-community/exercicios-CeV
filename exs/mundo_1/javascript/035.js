@@ -1,3 +1,12 @@
+/*
+Desafio 035
+
+Problema: Desenvolva um programa que leia o comprimento de três
+          retas e diga ao usuário se elas podem ou não formar um triângulo.
+
+Resolução do problema:
+*/
+
 const input = require('readline-sync').question //Chamando o modulo readline-sync para entrada de dados
 
 //Entrada de dados

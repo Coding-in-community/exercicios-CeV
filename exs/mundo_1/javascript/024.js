@@ -1,3 +1,11 @@
+/*
+Desafio 024
+
+Problema: Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome "SANTO".
+
+Resolução do problema:
+*/
+
 const input = require('readline-sync').question //Chamando o modulo readline-sync para entrada de dados
 
 //Entrada de dados

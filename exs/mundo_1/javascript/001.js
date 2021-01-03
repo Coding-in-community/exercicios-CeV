@@ -1,3 +1,9 @@
-// crie um programa que escreva "Olá mundo" na tela
+/*
+Desafio 001
+
+Problema: Crie um programa que escreva "Olá mundo" na tela.
+
+Resolução do problema:
+*/
 
 console.log('Olá mundo')
