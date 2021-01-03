@@ -6,10 +6,10 @@
 &nbsp;&nbsp; - [Enunciados](exs/mundo_1/enunciados.md#enunciados---mundo-1)  
 &nbsp;&nbsp; - [Resoluções](exs/mundo_1/readme.md#linguagens)
 2. *Mundo 2 - Estrutura de Controle*  
-&nbsp;&nbsp; - Enunciados  
+&nbsp;&nbsp; - [Enunciados](exs/mundo_2/enunciados.md#enunciados---mundo-2)  
 &nbsp;&nbsp; - [Resoluções](exs/mundo_2/readme.md#linguagens)
 3. *Mundo 3 - Estruturas Compostas*  
-&nbsp;&nbsp; - Enunciados  
+&nbsp;&nbsp; - [Enunciados](exs/mundo_3/enunciados.md#enunciados---mundo-3)  
 &nbsp;&nbsp; - [Resoluções](exs/mundo_3/readme.md#linguagens)
 
 ## Contribuidores
