@@ -1,4 +1,10 @@
-// crie um script que leia dois números e tente mostrar a soma entre eles
+/*
+Desafio 003
+
+Problema: Crie um programa que leia dois números e mostre a soma entre eles.
+
+Resolução do problema:
+*/
 
 const input = require('readline-sync').question
 const print = console.log

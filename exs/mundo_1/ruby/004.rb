@@ -6,7 +6,6 @@ Problema: Faça um programa que leia algo pelo teclado e mostre na tela
 
 Resolução do problema:
 =end
-
 class String
 	def is_alnum?()
 		!!match(/^[[:alnum:]]+$/)
@@ -69,14 +68,6 @@ def is_indentifier?(s)
 	end
 end
 
-=begin
-Desafio 004
-
-Problema: Faça um programa que leia algo pelo teclado e mostre na tela
-          seu tipo primitivo e todas as informações possíveis sobre ela.
-
-Resolução do problema:
-=end
 
 print('Digite algo: ')
 s = gets.chomp

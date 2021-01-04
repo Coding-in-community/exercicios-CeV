@@ -1,40 +1,40 @@
 # Linguagens
 
-| Exercícios | C#  | C++ | Python                    | Java | JavaScript |
-| ---------- | --- | --- | ------------------------- | ---- | ---------- |
-| 036        | C#  | C++ | [Python](./python/036.py) | Java | JavaScript |
-| 037        | C#  | C++ | [Python](./python/037.py) | Java | JavaScript |
-| 038        | C#  | C++ | [Python](./python/038.py) | Java | JavaScript |
-| 039        | C#  | C++ | [Python](./python/039.py) | Java | JavaScript |
-| 040        | C#  | C++ | [Python](./python/040.py) | Java | JavaScript |
-| 041        | C#  | C++ | [Python](./python/041.py) | Java | JavaScript |
-| 042        | C#  | C++ | [Python](./python/042.py) | Java | JavaScript |
-| 043        | C#  | C++ | [Python](./python/043.py) | Java | JavaScript |
-| 044        | C#  | C++ | [Python](./python/044.py) | Java | JavaScript |
-| 045        | C#  | C++ | [Python](./python/045.py) | Java | JavaScript |
-| 046        | C#  | C++ | [Python](./python/046.py) | Java | JavaScript |
-| 047        | C#  | C++ | [Python](./python/047.py) | Java | JavaScript |
-| 048        | C#  | C++ | [Python](./python/048.py) | Java | JavaScript |
-| 049        | C#  | C++ | [Python](./python/049.py) | Java | JavaScript |
-| 050        | C#  | C++ | [Python](./python/050.py) | Java | JavaScript |
-| 051        | C#  | C++ | [Python](./python/051.py) | Java | JavaScript |
-| 052        | C#  | C++ | [Python](./python/052.py) | Java | JavaScript |
-| 053        | C#  | C++ | [Python](./python/053.py) | Java | JavaScript |
-| 054        | C#  | C++ | [Python](./python/054.py) | Java | JavaScript |
-| 055        | C#  | C++ | [Python](./python/055.py) | Java | JavaScript |
-| 056        | C#  | C++ | [Python](./python/056.py) | Java | JavaScript |
-| 057        | C#  | C++ | [Python](./python/057.py) | Java | JavaScript |
-| 058        | C#  | C++ | [Python](./python/058.py) | Java | JavaScript |
-| 059        | C#  | C++ | [Python](./python/059.py) | Java | JavaScript |
-| 060        | C#  | C++ | [Python](./python/060.py) | Java | JavaScript |
-| 061        | C#  | C++ | [Python](./python/061.py) | Java | JavaScript |
-| 062        | C#  | C++ | [Python](./python/062.py) | Java | JavaScript |
-| 063        | C#  | C++ | [Python](./python/063.py) | Java | JavaScript |
-| 064        | C#  | C++ | [Python](./python/064.py) | Java | JavaScript |
-| 065        | C#  | C++ | [Python](./python/065.py) | Java | JavaScript |
-| 066        | C#  | C++ | [Python](./python/066.py) | Java | JavaScript |
-| 067        | C#  | C++ | [Python](./python/067.py) | Java | JavaScript |
-| 068        | C#  | C++ | [Python](./python/068.py) | Java | JavaScript |
-| 069        | C#  | C++ | [Python](./python/069.py) | Java | JavaScript |
-| 070        | C#  | C++ | [Python](./python/070.py) | Java | JavaScript |
-| 071        | C#  | C++ | [Python](./python/071.py) | Java | JavaScript |
+| Exercícios | C#  | C++ | Python                    | Java | JavaScript | Go  | Ruby |
+| ---------- | --- | --- | ------------------------- | ---- | ---------- | --- | ---- |
+| 036        | C#  | C++ | [Python](./python/036.py) | Java | JavaScript | Go  | Ruby |
+| 037        | C#  | C++ | [Python](./python/037.py) | Java | JavaScript | Go  | Ruby |
+| 038        | C#  | C++ | [Python](./python/038.py) | Java | JavaScript | Go  | Ruby |
+| 039        | C#  | C++ | [Python](./python/039.py) | Java | JavaScript | Go  | Ruby |
+| 040        | C#  | C++ | [Python](./python/040.py) | Java | JavaScript | Go  | Ruby |
+| 041        | C#  | C++ | [Python](./python/041.py) | Java | JavaScript | Go  | Ruby |
+| 042        | C#  | C++ | [Python](./python/042.py) | Java | JavaScript | Go  | Ruby |
+| 043        | C#  | C++ | [Python](./python/043.py) | Java | JavaScript | Go  | Ruby |
+| 044        | C#  | C++ | [Python](./python/044.py) | Java | JavaScript | Go  | Ruby |
+| 045        | C#  | C++ | [Python](./python/045.py) | Java | JavaScript | Go  | Ruby |
+| 046        | C#  | C++ | [Python](./python/046.py) | Java | JavaScript | Go  | Ruby |
+| 047        | C#  | C++ | [Python](./python/047.py) | Java | JavaScript | Go  | Ruby |
+| 048        | C#  | C++ | [Python](./python/048.py) | Java | JavaScript | Go  | Ruby |
+| 049        | C#  | C++ | [Python](./python/049.py) | Java | JavaScript | Go  | Ruby |
+| 050        | C#  | C++ | [Python](./python/050.py) | Java | JavaScript | Go  | Ruby |
+| 051        | C#  | C++ | [Python](./python/051.py) | Java | JavaScript | Go  | Ruby |
+| 052        | C#  | C++ | [Python](./python/052.py) | Java | JavaScript | Go  | Ruby |
+| 053        | C#  | C++ | [Python](./python/053.py) | Java | JavaScript | Go  | Ruby |
+| 054        | C#  | C++ | [Python](./python/054.py) | Java | JavaScript | Go  | Ruby |
+| 055        | C#  | C++ | [Python](./python/055.py) | Java | JavaScript | Go  | Ruby |
+| 056        | C#  | C++ | [Python](./python/056.py) | Java | JavaScript | Go  | Ruby |
+| 057        | C#  | C++ | [Python](./python/057.py) | Java | JavaScript | Go  | Ruby |
+| 058        | C#  | C++ | [Python](./python/058.py) | Java | JavaScript | Go  | Ruby |
+| 059        | C#  | C++ | [Python](./python/059.py) | Java | JavaScript | Go  | Ruby |
+| 060        | C#  | C++ | [Python](./python/060.py) | Java | JavaScript | Go  | Ruby |
+| 061        | C#  | C++ | [Python](./python/061.py) | Java | JavaScript | Go  | Ruby |
+| 062        | C#  | C++ | [Python](./python/062.py) | Java | JavaScript | Go  | Ruby |
+| 063        | C#  | C++ | [Python](./python/063.py) | Java | JavaScript | Go  | Ruby |
+| 064        | C#  | C++ | [Python](./python/064.py) | Java | JavaScript | Go  | Ruby |
+| 065        | C#  | C++ | [Python](./python/065.py) | Java | JavaScript | Go  | Ruby |
+| 066        | C#  | C++ | [Python](./python/066.py) | Java | JavaScript | Go  | Ruby |
+| 067        | C#  | C++ | [Python](./python/067.py) | Java | JavaScript | Go  | Ruby |
+| 068        | C#  | C++ | [Python](./python/068.py) | Java | JavaScript | Go  | Ruby |
+| 069        | C#  | C++ | [Python](./python/069.py) | Java | JavaScript | Go  | Ruby |
+| 070        | C#  | C++ | [Python](./python/070.py) | Java | JavaScript | Go  | Ruby |
+| 071        | C#  | C++ | [Python](./python/071.py) | Java | JavaScript | Go  | Ruby |
