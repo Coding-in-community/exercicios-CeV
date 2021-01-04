@@ -13,8 +13,5 @@ if n.index('SILVA') != nil
 	puts"Você tem Silva no nome." 
 else
 	puts"Você não tem Silva no nome."
-<<<<<<< HEAD
 end
-=======
-end
->>>>>>> 5906c165c91d90f97028d48aee4053e23c76d639
+
