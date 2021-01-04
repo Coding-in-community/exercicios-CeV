@@ -41,18 +41,18 @@
 
 ## O que vai encontrar aqui? 👀
 
-Esse repositório é dedicado a armazenar todos os enunciados dos exercícios do [Curso de Python 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) do canal *Curso em Vídeo* e suas soluções em diversas linguagens de programação.
+Esse repositório é dedicado a armazenar todos os enunciados dos exercícios do [Curso de Python 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) do canal [Curso em Vídeo](https://www.cursoemvideo.com/) e suas soluções em diversas linguagens de programação.
 
 
 ## Index dos Mundos 🌎
 
-1. **Mundo 1 - Fundamentos**  
+- **Mundo 1 - Fundamentos**  
    - [Enunciados](exs/mundo_1/enunciados.md#enunciados---mundo-1)  
    - [Resoluções](exs/mundo_1/readme.md#linguagens)
-2. **Mundo 2 - Estrutura de Controle**  
+- **Mundo 2 - Estrutura de Controle**  
    - [Enunciados](exs/mundo_2/enunciados.md#enunciados---mundo-2)  
    - [Resoluções](exs/mundo_2/readme.md#linguagens)
-3. **Mundo 3 - Estruturas Compostas**  
+- **Mundo 3 - Estruturas Compostas**  
    - [Enunciados](exs/mundo_3/enunciados.md#enunciados---mundo-3)  
    - [Resoluções](exs/mundo_3/readme.md#linguagens)
 
@@ -71,7 +71,7 @@ Tem algum problema? Encontrou um bug ou exercício incorreto? Tem alguma dica? A
 
 Quer contribuir com código? Pedimos que antes leia [CONTRIBUTING.md](https://github.com/Coding-in-community/exercicios-CeV/blob/main/CONTRIBUTING.md#guia-para-contribuidores)
 
-Não esqueça de deixar a sua ⭐ para ajudar também ;)
+Não esqueça de deixar a sua ⭐, também é um modo de contribuir com o projeto ;)
 
 
 ## Licença 📜
