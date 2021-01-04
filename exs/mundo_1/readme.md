@@ -2,9 +2,9 @@
 
 | Exercícios | C#                  | C++                  | Python                    | Java                    | JavaScript                          | Go  | Ruby                  |
 | ---------- | ------------------- | -------------------- | ------------------------- | ----------------------- | ----------------------------------- | --- | --------------------- |
-| 001        | [C#](./c%23/001.cs) | [C++](./c++/001.cpp) | [Python](./python/001.py) | [Java](./java/001.java) | [JavaScript](./javascript/001.js)   | Go  | [Ruby](./ruby/001.rb) |
-| 002        | [C#](./c%23/002.cs) | [C++](./c++/002.cpp) | [Python](./python/002.py) | [Java](./java/002.java) | [JavaScript](./javascript/002.js)   | Go  | [Ruby](./ruby/002.rb) |
-| 003        | [C#](./c%23/003.cs) | [C++](./c++/003.cpp) | [Python](./python/003.py) | [Java](./java/003.java) | [JavaScript](./javascript/003.js)   | Go  | [Ruby](./ruby/003.rb) |
+| 001        | [C#](./c%23/001.cs) | [C++](./c++/001.cpp) | [Python](./python/001.py) | [Java](./java/001.java) | [JavaScript](./javascript/001.js)   | [Go](./golang/001.go)  | [Ruby](./ruby/001.rb) |
+| 002        | [C#](./c%23/002.cs) | [C++](./c++/002.cpp) | [Python](./python/002.py) | [Java](./java/002.java) | [JavaScript](./javascript/002.js)   | [Go](./golang/002.go)  | [Ruby](./ruby/002.rb) |
+| 003        | [C#](./c%23/003.cs) | [C++](./c++/003.cpp) | [Python](./python/003.py) | [Java](./java/003.java) | [JavaScript](./javascript/003.js)   | [Go](./golang/003.go)  | [Ruby](./ruby/003.rb) |
 | 004        | [C#](./c%23/004.cs) | C++                  | [Python](./python/004.py) | [Java](./java/004.java) | [JavaScript](./javascript/004.js)   | Go  | [Ruby](./ruby/004.rb) |
 | 005        | [C#](./c%23/005.cs) | [C++](./c++/005.cpp) | [Python](./python/005.py) | [Java](./java/005.java) | JavaScript                          | Go  | [Ruby](./ruby/005.rb) |
 | 006        | [C#](./c%23/006.cs) | [C++](./c++/006.cpp) | [Python](./python/006.py) | [Java](./java/006.java) | JavaScript                          | Go  | [Ruby](./ruby/006.rb) |
