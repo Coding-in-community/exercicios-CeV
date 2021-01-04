@@ -10,7 +10,7 @@ class Main {
         Scanner scan = new Scanner(System.in);
         System.out.print("Cateto oposto: ");
         double co = scan.nextDouble();
-        System.out.print("cateto adjacente: ");
+        System.out.print("Cateto adjacente: ");
         double ca = scan.nextDouble();
 
         System.out.printf("Hipotenusa: %f\n", Math.hypot(co, ca));
