@@ -10,8 +10,10 @@
 </div>
 
 <div align="center">
-   <i>Oferecido por</i> </br>
-   <img src="./.github/assets/images/coding_in_community.png" alt="Logo Coding in Community" width="350px" />
+   <b><i>Oferecido por</i></b> </br>
+   <a href="https://github.com/Coding-in-community">
+      <img src="./.github/assets/images/coding_in_community.png" alt="Logo Coding in Community" width="300px" />
+   </a>
 </div>
 
 ---
