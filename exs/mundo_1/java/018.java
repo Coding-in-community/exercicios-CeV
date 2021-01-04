@@ -6,7 +6,7 @@ import java.util.*;
 class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.print("Informe um angulo: ");
+        System.out.print("Informe um ângulo: ");
 
         double ang = scan.nextDouble();
         double rad = Math.toRadians(ang);
