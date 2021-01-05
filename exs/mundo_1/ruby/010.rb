@@ -9,5 +9,5 @@ Resolução do problema:
 
 print"Quantos Reais você tem? "
 n = gets.chomp.to_f
-dolar = 5.19 #preço do dolar no dia 2/1/2021
+dolar = 0.19 #preço do dolar no dia 4/1/2021
 puts"Com esse dinheiro, você consegue comprar #{n*dolar}US$."
