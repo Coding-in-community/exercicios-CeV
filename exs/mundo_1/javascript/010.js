@@ -9,7 +9,7 @@ Resolução do problema:
 const input = require('readline-sync').question
 
 let qntDinheiro = Number(input("Quanto dinheiro você tem? R$"))
-let valorDolar = 7.85 // penando no futuro
+let valorDolar = 5.65
 
 let qntDolar = (qntDinheiro / valorDolar)
 
