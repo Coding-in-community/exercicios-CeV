@@ -62,10 +62,9 @@ def is_indentifier?(s)
 	words.each do |i|
 		if i == s
 			return true
-		else
-			return false
 		end
 	end
+	return false
 end
 
 
