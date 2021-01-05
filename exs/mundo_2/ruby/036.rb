@@ -20,7 +20,7 @@ anos = gets.chomp.to_i
 
 prestacao = valorCasa /(anos * 12)
 
-if prestacao < salario * 1.30
+if prestacao < salario * 0.30
 	puts"FINANCIAMENTO ACEITO!!\nA prestação será de R$#{prestacao}/Mês durante #{anos} anos."
 else
 	puts"FINANCIAMENTO RECUSADO!! Sálario muito baixo para fazer o financiamento."

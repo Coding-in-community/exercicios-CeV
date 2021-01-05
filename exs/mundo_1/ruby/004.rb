@@ -67,7 +67,6 @@ def is_indentifier?(s)
 	return false
 end
 
-
 print('Digite algo: ')
 s = gets.chomp
 
