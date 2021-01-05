@@ -18,6 +18,6 @@ func main(){
 	fmt.Scanln(&first)
 	fmt.Print("Informe a segunda nota: ")
 	fmt.Scanln(&second)
-	calc = first + second / 2
+	calc = (first + second) / 2
 	fmt.Print("Média: ", calc)
 }

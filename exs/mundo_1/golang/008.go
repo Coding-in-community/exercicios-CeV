@@ -16,6 +16,6 @@ func main() {
 	fmt.Scanln(&meter)
 	centimeter = meter * 100
 	millimeter = meter * 1000
-	fmt.Println("Centrimento:", centimeter)
-	fmt.Println("Milimetro:", millimeter)
+	fmt.Println("Centímetro:", centimeter)
+	fmt.Println("Milímetro:", millimeter)
 }
