@@ -11,4 +11,4 @@ print"Digite o valor do produto: "
 n = gets.chomp.to_f
 
 desconto = (n*0.05)
-puts"O produto com 5% de desconto fica #{desconto}."
+puts"O produto com 5% de desconto fica #{n - desconto}."
