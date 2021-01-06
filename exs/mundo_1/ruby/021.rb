@@ -1,7 +1,7 @@
 =begin
 Desafio 021
 
-Problema: Faça um programa em que abra e reproduza o áudio de um arquivo MP3.
+Problema: Faça um programa que abra e reproduza o áudio de um arquivo MP3.
 
 Resolução do problema:
 =end
