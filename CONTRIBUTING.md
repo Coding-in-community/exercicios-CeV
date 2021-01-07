@@ -122,7 +122,7 @@ Caso queira fazer outras contribuições que não tenha relação com a branch d
 Vá para a branch padrão:
 
 ```bash
-$ git checkout main
+$ git checkout master
 ```
 
 Delete a antiga:
@@ -140,16 +140,16 @@ Para sincronizar o fork/clone com as novas features que tem no repositório ofic
 
 ### Sincronize o clone
 
-Certifique-se de estar na branch padrão, que para esse projeto é a `main`:
+Certifique-se de estar na branch padrão, que para esse projeto é a `master`:
 
 ```bash
-$ git checkout main
+$ git checkout master
 ```
 
 Agora sincronize com:
 
 ```bash
-$ git pull upstream main
+$ git pull upstream master
 ```
 
 Após isso o ambiente local estará sincronizado.
@@ -159,7 +159,7 @@ Após isso o ambiente local estará sincronizado.
 Com o ambiente local sincronizado, sincronize o remoto também:
 
 ```bash
-$ git push origin main
+$ git push origin master
 ```
 
 Pronto, ambiente local e remoto sincronizado com o oficial.
