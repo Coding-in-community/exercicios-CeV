@@ -21,9 +21,9 @@ altura = gets.chomp.to_f
 imc = peso/(altura**2)
 
 puts"Seu imc é %.2f." % imc
-if 0 < imc and imc < 1.85
+if 0 < imc and imc < 18.5
 	puts"Abaixo do peso."
-elsif 1.85 <= imc and imc < 25
+elsif 18.5 <= imc and imc < 25
 	puts"Peso ideal."
 elsif 25 <= imc and imc < 30
 	puts"Sobrepeso."
