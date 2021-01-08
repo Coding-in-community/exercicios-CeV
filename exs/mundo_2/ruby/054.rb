@@ -11,13 +11,14 @@ Resolução do problemas:
 maiores = 0
 menores = 0
 7.times do |i|
-	print"Digite a idade da #{i+1} pessoa: "
-	idade = gets.chomp.to_i
-	if idade >= 18
+	print"Digite o ano de nascimento da #{i+1} pessoa: "
+	anoNasc = gets.chomp.to_i
+	idade = Time.now.year - anoNasc
+	if idade >= 21
 		maiores += 1
+	else
+		menores += 1
 	end
-	menores += 1
 end
-
 puts "Tem #{maiores} pessoas maiores de idade."
 puts "Tem #{menores} pessoas menores de idade."
