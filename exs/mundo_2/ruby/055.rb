@@ -8,12 +8,20 @@ Resolução do problema:
 =end
 
 maior = 0
-
+menor = 0
 5.times do |i|
 	print"Digite o peso da #{i+1} pessoa: "
 	peso = gets.chomp.to_f
+	if i == 0
+		menor = peso
+		maior = peso
+	end
 	if peso > maior
 		maior = peso
 	end
+	if peso < menor
+		menor = peso
+	end
 end
 puts "O maior peso foi #{maior}."
+puts "O menor peso foi #{menor}."
