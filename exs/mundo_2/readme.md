@@ -27,7 +27,7 @@
 | 058        | C#  | C++ | [Python](./python/058.py) | Java | JavaScript | Go  | [Ruby](./ruby/058.rb) |
 | 059        | C#  | C++ | [Python](./python/059.py) | Java | JavaScript | Go  | [Ruby](./ruby/059.rb) |
 | 060        | C#  | C++ | [Python](./python/060.py) | Java | JavaScript | Go  | [Ruby](./ruby/060.rb) |
-| 061        | C#  | C++ | [Python](./python/061.py) | Java | JavaScript | Go  | Ruby |
+| 061        | C#  | C++ | [Python](./python/061.py) | Java | JavaScript | Go  | [Ruby](./ruby/061.rb) |
 | 062        | C#  | C++ | [Python](./python/062.py) | Java | JavaScript | Go  | Ruby |
 | 063        | C#  | C++ | [Python](./python/063.py) | Java | JavaScript | Go  | Ruby |
 | 064        | C#  | C++ | [Python](./python/064.py) | Java | JavaScript | Go  | Ruby |
