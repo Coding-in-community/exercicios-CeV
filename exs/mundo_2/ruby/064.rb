@@ -20,6 +20,6 @@ while n != 999
 		soma.push(n)
 		count += 1
 	else
-		puts"A soma dos valores #{count} digitados foi #{soma.inject("+")}."
+		puts"A soma dos valores #{count} digitados é igual a #{soma.inject("+")}."
 	end
 end
