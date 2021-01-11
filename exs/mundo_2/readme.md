@@ -32,9 +32,9 @@
 | 063        | C#  | C++ | [Python](./python/063.py) | Java | JavaScript | Go  | [Ruby](./ruby/063.rb) |
 | 064        | C#  | C++ | [Python](./python/064.py) | Java | JavaScript | Go  | [Ruby](./ruby/064.rb) |
 | 065        | C#  | C++ | [Python](./python/065.py) | Java | JavaScript | Go  | [Ruby](./ruby/065.rb) |
-| 066        | C#  | C++ | [Python](./python/066.py) | Java | JavaScript | Go  | Ruby |
-| 067        | C#  | C++ | [Python](./python/067.py) | Java | JavaScript | Go  | Ruby |
-| 068        | C#  | C++ | [Python](./python/068.py) | Java | JavaScript | Go  | Ruby |
-| 069        | C#  | C++ | [Python](./python/069.py) | Java | JavaScript | Go  | Ruby |
-| 070        | C#  | C++ | [Python](./python/070.py) | Java | JavaScript | Go  | Ruby |
-| 071        | C#  | C++ | [Python](./python/071.py) | Java | JavaScript | Go  | Ruby |
+| 066        | C#  | C++ | [Python](./python/066.py) | Java | JavaScript | Go  | [Ruby](./ruby/066.rb) |
+| 067        | C#  | C++ | [Python](./python/067.py) | Java | JavaScript | Go  | [Ruby](./ruby/067.rb) |
+| 068        | C#  | C++ | [Python](./python/068.py) | Java | JavaScript | Go  | [Ruby](./ruby/068.rb) |
+| 069        | C#  | C++ | [Python](./python/069.py) | Java | JavaScript | Go  | [Ruby](./ruby/069.rb) |
+| 070        | C#  | C++ | [Python](./python/070.py) | Java | JavaScript | Go  | [Ruby](./ruby/070.rb) |
+| 071        | C#  | C++ | [Python](./python/071.py) | Java | JavaScript | Go  | [Ruby](./ruby/071.rb) |
