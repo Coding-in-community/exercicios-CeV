@@ -11,7 +11,6 @@ import (
 )
 
 func main() {
-	// var real float64
 	var real float64
 	fmt.Print("Informe um valor: R$")
 	fmt.Scanln(&real)
