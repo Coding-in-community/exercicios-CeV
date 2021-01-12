@@ -16,6 +16,7 @@ until acertou
 	print"Qual o seu palpite? "
 	n = gets.chomp.to_i
 	if n == pc
+		chutes += 1
 		acertou = true
 	elsif n < pc
 		puts"mais que isso!"

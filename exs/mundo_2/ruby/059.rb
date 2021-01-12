@@ -58,7 +58,7 @@ while opc != 5
 	print"Digite uma operação: "
 	opc = gets.chomp.to_i
 
-	if opc > 5
+	if opc > 5 or opc <= 0
 		puts"Digite um operação válida."
 	end
 
