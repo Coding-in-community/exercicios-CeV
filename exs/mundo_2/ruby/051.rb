@@ -16,6 +16,6 @@ r = gets.chomp.to_f
 n = p1 + (10 - 1) * r 
 
 for i in (p1..n).step(r)
-    puts i\
+    puts i
 end
 print('FIM DA PROGRESSÂO')

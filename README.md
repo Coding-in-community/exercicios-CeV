@@ -68,11 +68,11 @@ Todo tipo de contribuição é bem-vinda, nós admiramos isso!
 
 Tem algum problema? Encontrou um bug ou exercício incorreto? Tem alguma dica? Abra uma [issue](https://github.com/Coding-in-community/exercicios-CeV/issues) descrevendo.
 
-Quer contribuir com código? Pedimos que antes leia [CONTRIBUTING.md](https://github.com/Coding-in-community/exercicios-CeV/blob/main/CONTRIBUTING.md#guia-para-contribuidores)
+Quer contribuir com código? Pedimos que antes leia [CONTRIBUTING.md](https://github.com/Coding-in-community/exercicios-CeV/blob/master/CONTRIBUTING.md#guia-para-contribuidores)
 
 Não esqueça de deixar a sua ⭐, também é um modo de contribuir com o projeto ;)
 
 
 ## Licença 📜
 
-Este repositório usa a licença MIT, para mais informações consulte em [LICENSE](https://github.com/Coding-in-community/exercicios-CeV/blob/main/LICENSE)
+Este repositório usa a licença MIT, para mais informações consulte em [LICENSE](https://github.com/Coding-in-community/exercicios-CeV/blob/master/LICENSE)
