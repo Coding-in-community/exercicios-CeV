@@ -1,7 +1,7 @@
 # Linguagens
 
-|  Nº | C# | C++ | Python                    | Java | JavaScript | Go | Ruby |
-| --- | -- | --- | ------------------------- | ---- | ---------- | -- | ---- |
+|  Nº | C# | C++ | Python                    | Java | JavaScript | Go | Ruby                  |
+| --- | -- | --- | ------------------------- | ---- | ---------- | -- | --------------------- |
 | 036 | C# | C++ | [Python](./python/036.py) | Java | JavaScript | Go | [Ruby](./ruby/036.rb) |
 | 037 | C# | C++ | [Python](./python/037.py) | Java | JavaScript | Go | [Ruby](./ruby/037.rb) |
 | 038 | C# | C++ | [Python](./python/038.py) | Java | JavaScript | Go | [Ruby](./ruby/038.rb) |
