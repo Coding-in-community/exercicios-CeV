@@ -27,11 +27,7 @@ class Program {
       "Insira um número: "
     ));
 
-    if (num < 0) {
-      io.print("Número inválido");
-    }
-
-    else if (num % 2 == 0) {
+    if (num % 2 == 0) {
       io.print("O número é PAR");
     }
 

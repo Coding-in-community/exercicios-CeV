@@ -26,7 +26,7 @@ class io {
 class Program {
   public static void Main () {
     int num = int.Parse(io.input(
-      "Insira um número de 1 a 9999: "
+      "Insira um número de 0 a 9999: "
     ));
 
     int unidade = num / 1 % 10; 
