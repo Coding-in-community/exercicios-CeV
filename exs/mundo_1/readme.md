@@ -19,8 +19,8 @@
 | 015        | C#                  | [C++](./c++/015.cpp) | [Python](./python/015.py) | Java                    | JavaScript                          | [Go](./golang/015.go)  | [Ruby](./ruby/015.rb) |
 | 016        | C#                  | [C++](./c++/016.cpp) | [Python](./python/016.py) | Java                    | JavaScript                          | [Go](./golang/016.go)  | [Ruby](./ruby/016.rb) |
 | 017        | C#                  | [C++](./c++/017.cpp) | [Python](./python/017.py) | Java                    | JavaScript                          | [Go](./golang/017.go)  | [Ruby](./ruby/017.rb) |
-| 018        | C#                  | C++                  | [Python](./python/018.py) | Java                    | JavaScript                          | Go  | [Ruby](./ruby/018.rb) |
-| 019        | C#                  | C++                  | [Python](./python/019.py) | Java                    | JavaScript                          | Go  | [Ruby](./ruby/019.rb) |
+| 018        | C#                  | C++                  | [Python](./python/018.py) | Java                    | JavaScript                          | [Go](./golang/018.go)  | [Ruby](./ruby/018.rb) |
+| 019        | C#                  | C++                  | [Python](./python/019.py) | Java                    | JavaScript                          | [Go](./golang/019.go)  | [Ruby](./ruby/019.rb) |
 | 020        | C#                  | C++                  | [Python](./python/020.py) | Java                    | JavaScript                          | Go  | [Ruby](./ruby/020.rb) |
 | 021        | C#                  | C++                  | [Python](./python/021.py) | Java                    | [JavaScript](./javascript/021.html) | Go  | [Ruby](./ruby/021.rb) |
 | 022        | C#                  | C++                  | [Python](./python/022.py) | Java                    | [JavaScript](./javascript/022.js)   | Go  | [Ruby](./ruby/022.rb) |
