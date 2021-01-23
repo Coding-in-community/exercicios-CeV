@@ -13,7 +13,7 @@ public class Program
 		Console.Write("Digite a distancia da viagem em km: ");
 		float km = float.Parse(Console.ReadLine());
 		float valorTotal;
-		if (km < 200)
+		if (km <= 200)
 		{
 			valorTotal = 0.5f * km;
 		}
@@ -24,4 +24,3 @@ public class Program
         Console.Write("Valor total: " + valorTotal);
 	}
 }
-
