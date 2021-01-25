@@ -60,6 +60,7 @@ Esse repositório é dedicado a armazenar todos os enunciados dos exercícios do
 
 | [<img src="https://avatars2.githubusercontent.com/u/49632633?s=115" /><br /><sub>@BearingMe</sub>](https://github.com/BearingMe) | [<img src="https://avatars2.githubusercontent.com/u/52337966?s=115" /><br /><sub>@carlos3g</sub>](https://github.com/carlos3g) | [<img src="https://avatars3.githubusercontent.com/u/50463866?s=115" /><br /><sub>@matheusfelipeog</sub>](https://github.com/matheusfelipeog) |  [<img src="https://avatars1.githubusercontent.com/u/52904595?s=115" /><br /><sub>@KevinAp-5</sub>](https://github.com/KevinAp-5) |  [<img src="https://avatars1.githubusercontent.com/u/57228436?s=115" /><br /><sub>@QuatroQuatros</sub>](https://github.com/QuatroQuatros) |  [<img src="https://avatars1.githubusercontent.com/u/33698647?s=115" /><br /><sub>@Typhz</sub>](https://github.com/Typhz) | 
 |:-:|:-:|:-:|:-:|:-:|:-:|
+| [<img src="https://avatars1.githubusercontent.com/u/50597711?s=115" /><br /><sub>@LeonardoCruzx</sub>](https://github.com/LeonardoCruzx) | 
 
 
 ## Contribuindo 🤝
