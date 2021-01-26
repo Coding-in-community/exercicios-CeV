@@ -9,15 +9,19 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        String numero;
+        int numero, uni, de, ce, mi;
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Digite um numero: ");
-        numero = scanner.nextLine();
+        numero = scanner.nextInt();
 
-        for (char n : numero.toCharArray()) {
-            System.out.print(n + " ");
-        }
+        uni = numero / 1 % 10;
+        de = numero / 10 % 10;
+        ce = numero / 100 % 10;
+        mi = numero / 1000 % 10;
+
+        System.out.println("Unidade: " + uni + "\nDezena: " + de + "\nCentena: " + ce + "\nMilhar: " + mi);
+
     }
 
 }
