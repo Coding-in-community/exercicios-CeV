@@ -1,7 +1,7 @@
 /*
     ### 022 - Analisador de textos
     Crie um programa que leia o nome completo de uma pessoa e mostre:
-    em lestras maiúsculas, minúsculas, a quantidade de letras sem espaço, e quantas letras tem o primeiro nome
+    em letras maiúsculas, minúsculas, a quantidade de letras sem espaço e quantas letras tem o primeiro nome
  */
 
 
