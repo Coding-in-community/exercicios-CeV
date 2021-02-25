@@ -27,6 +27,8 @@
 
    <img src="https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge&logoColor=white" alt="Bradge Java" />
 
+   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&style=for-the-badge&logoColor=black" alt="Bradge C" />
+   
    <img src="https://img.shields.io/badge/-C Sharp-239120?logo=c-sharp&style=for-the-badge&logoColor=white" alt="Bradge C Sharp" />
 
    <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=for-the-badge&logoColor=white" alt="Bradge C++" />
