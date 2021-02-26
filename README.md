@@ -42,7 +42,7 @@
 
 ## O que vai encontrar aqui? 👀
 
-Esse repositório é dedicado a armazenar todos os enunciados dos exercícios do [Curso de Python 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) do canal [Curso em Vídeo](https://www.cursoemvideo.com/) e suas soluções em diversas linguagens de programação.
+Esse repositório é dedicado a armazenar todos os enunciados e soluções dos exercícios do [Curso de Python 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) do canal [Curso em Vídeo](https://www.cursoemvideo.com/) em diversas linguagens de programação.
 
 
 ## Index dos Mundos 🌎
