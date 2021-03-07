@@ -27,6 +27,8 @@
 
    <img src="https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge&logoColor=white" alt="Bradge Java" />
 
+   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&style=for-the-badge&logoColor=black" alt="Bradge C" />
+   
    <img src="https://img.shields.io/badge/-C Sharp-239120?logo=c-sharp&style=for-the-badge&logoColor=white" alt="Bradge C Sharp" />
 
    <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=for-the-badge&logoColor=white" alt="Bradge C++" />
@@ -40,7 +42,7 @@
 
 ## O que vai encontrar aqui? 👀
 
-Esse repositório é dedicado a armazenar todos os enunciados dos exercícios do [Curso de Python 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) do canal [Curso em Vídeo](https://www.cursoemvideo.com/) e suas soluções em diversas linguagens de programação.
+Esse repositório é dedicado a armazenar todos os enunciados e soluções dos exercícios do [Curso de Python 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) do canal [Curso em Vídeo](https://www.cursoemvideo.com/) em diversas linguagens de programação.
 
 
 ## Index dos Mundos 🌎
