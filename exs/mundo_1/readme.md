@@ -22,14 +22,14 @@
 | 018 | [C#](./c%23/018.cs) | [C++](./c++/018.cpp) | [Python](./python/018.py) | [Java](./java/018.java) | [JavaScript](./javascript/018.js)   | [Go](./golang/018.go) | [Ruby](./ruby/018.rb) | C              |
 | 019 | [C#](./c%23/019.cs) | [C++](./c++/019.cpp) | [Python](./python/019.py) | [Java](./java/019.java) | [JavaScript](./javascript/019.js)   | [Go](./golang/019.go) | [Ruby](./ruby/019.rb) | C              |
 | 020 | [C#](./c%23/020.cs) | [C++](./c++/020.cpp) | [Python](./python/020.py) | [Java](./java/020.java) | [JavaScript](./javascript/020.js)   | [Go](./golang/020.go) | [Ruby](./ruby/020.rb) | C              |
-| 021 | [C#](./c%23/021.cs) | C++                  | [Python](./python/021.py) | Java                    | [JavaScript](./javascript/021.html) | [Go](./golang/021.go) | [Ruby](./ruby/021.rb) | C              |
+| 021 | [C#](./c%23/021.cs) | [C++](./c++/021.cpp) | [Python](./python/021.py) | Java                    | [JavaScript](./javascript/021.html) | [Go](./golang/021.go) | [Ruby](./ruby/021.rb) | C              |
 | 022 | [C#](./c%23/022.cs) | C++                  | [Python](./python/022.py) | [Java](./java/022.java) | [JavaScript](./javascript/022.js)   | [Go](./golang/022.go) | [Ruby](./ruby/022.rb) | C              |
 | 023 | [C#](./c%23/023.cs) | [C++](./c++/023.cpp) | [Python](./python/023.py) | [Java](./java/023.java) | [JavaScript](./javascript/023.js)   | [Go](./golang/023.go) | [Ruby](./ruby/023.rb) | C              |
 | 024 | [C#](./c%23/024.cs) | [C++](./c++/024.cpp) | [Python](./python/024.py) | [Java](./java/024.java) | [JavaScript](./javascript/024.js)   | [Go](./golang/024.go) | [Ruby](./ruby/024.rb) | C              |
 | 025 | [C#](./c%23/025.cs) | C++                  | [Python](./python/025.py) | [Java](./java/025.java) | [JavaScript](./javascript/025.js)   | [Go](./golang/025.go) | [Ruby](./ruby/025.rb) | C              |
 | 026 | [C#](./c%23/026.cs) | C++                  | [Python](./python/026.py) | [Java](./java/026.java) | [JavaScript](./javascript/026.js)   | [Go](./golang/026.go) | [Ruby](./ruby/026.rb) | C              |
 | 027 | [C#](./c%23/027.cs) | C++                  | [Python](./python/027.py) | [Java](./java/027.java) | [JavaScript](./javascript/027.js)   | [Go](./golang/027.go) | [Ruby](./ruby/027.rb) | C              |
-| 028 | [C#](./c%23/028.cs) | C++                  | [Python](./python/028.py) | [Java](./java/028.java) | [JavaScript](./javascript/028.js)   | [Go](./golang/028.go) | [Ruby](./ruby/028.rb) | C              |
+| 028 | [C#](./c%23/028.cs) | [C++](./c++/028.cpp) | [Python](./python/028.py) | [Java](./java/028.java) | [JavaScript](./javascript/028.js)   | [Go](./golang/028.go) | [Ruby](./ruby/028.rb) | C              |
 | 029 | [C#](./c%23/029.cs) | [C++](./c++/029.cpp) | [Python](./python/029.py) | [Java](./java/029.java) | [JavaScript](./javascript/029.js)   | [Go](./golang/029.go) | [Ruby](./ruby/029.rb) | C              |
 | 030 | [C#](./c%23/030.cs) | [C++](./c++/030.cpp) | [Python](./python/030.py) | [Java](./java/030.java) | [JavaScript](./javascript/030.js)   | [Go](./golang/030.go) | [Ruby](./ruby/030.rb) | C              |
 | 031 | [C#](./c%23/031.cs) | [C++](./c++/031.cpp) | [Python](./python/031.py) | [Java](./java/031.java) | [JavaScript](./javascript/031.js)   | [Go](./golang/031.go) | [Ruby](./ruby/031.rb) | C              |
