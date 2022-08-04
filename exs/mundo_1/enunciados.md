@@ -64,7 +64,7 @@
   Faça um programa que abra e reproduza um arquivo mp3
 
 ### 022 - Analisador de textos
-  Crie um programa que leia o nome completo de uma pessoa e mostre: em lestras maiúsculas, minúsculas, a quantidade de letras sem espaço, e quantas letras tem o primeiro nome
+  Crie um programa que leia o nome completo de uma pessoa e mostre: em letras maiúsculas, minúsculas, a quantidade de letras sem espaço, e quantas letras tem o primeiro nome
 
 ### 023 - Separando dígitos de um número
   Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados
