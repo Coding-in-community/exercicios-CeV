@@ -16,10 +16,10 @@ fn main() {
     input = input.trim().to_lowercase();
 
     let count_a = input.chars().filter(|char| *char == 'a').count();
-    let is_first_letter = input.chars().nth(0).unwrap() == 'a';
-    let is_last_letter = input.chars().last().unwrap() == 'a';
+    let first_a = input.find('a').unwrap() as i32 + 1;
+    let last_a = input.rfind('a').unwrap() as i32 + 1;
 
     println!("Quantas vezes a letra \"A\" apareceu: {}", count_a);
-    println!("Ela aparece a primeira vez na posição: {}", is_first_letter);
-    println!("Ela aparece a ultima vez na posição: {}", is_last_letter);
+    println!("Ela aparece a primeira vez na posição: {}", first_a);
+    println!("Ela aparece a ultima vez na posição: {}", last_a);
 }
