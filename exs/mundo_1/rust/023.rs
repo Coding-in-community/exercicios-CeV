@@ -23,7 +23,7 @@ fn main() {
         println!("Dezena: {}", dez);
         println!("Centena: {}", cen);
         println!("Milhar: {}", mil);
+    } else {
+        println!("Número inválido");
     }
-
-    println!("Número inválido");
 }
