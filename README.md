@@ -36,6 +36,8 @@
    <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&style=for-the-badge&logoColor=white" alt="Bradge Ruby" />
 
    <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&style=for-the-badge&logoColor=white" alt="Bradge Golang" />
+   
+   <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&style=for-the-badge&logoColor=white" alt="Badge Rust" />
 </div>
 
 ---
