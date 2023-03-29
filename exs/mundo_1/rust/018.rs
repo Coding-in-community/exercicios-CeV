@@ -12,7 +12,7 @@ fn main() {
 
     std::io::stdin().read_line(&mut angulo).unwrap();
 
-    let angulo: f32 = angulo
+    let mut angulo: f32 = angulo
         .trim()
         .parse()
         .expect("Valor do ângulo não é um número");
