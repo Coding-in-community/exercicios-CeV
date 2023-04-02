@@ -12,3 +12,4 @@ __pycache__/
 
 # Ignore settings from gitpod
 .theia
+.idea/
