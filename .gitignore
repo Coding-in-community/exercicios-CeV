@@ -12,3 +12,7 @@ __pycache__/
 
 # Ignore settings from gitpod
 .theia
+
+# for Intellij
+.idea/
+*.iml
