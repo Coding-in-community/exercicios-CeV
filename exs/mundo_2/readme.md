@@ -1,11 +1,11 @@
 # Linguagens
 
-|  Nº | C# | C++ | Python                    | Java | JavaScript | Go | Ruby                  |
-| --- | -- | --- | ------------------------- | ---- | ---------- | -- | --------------------- |
-| 036 | C# | C++ | [Python](./python/036.py) | Java | JavaScript | Go | [Ruby](./ruby/036.rb) |
-| 037 | C# | C++ | [Python](./python/037.py) | Java | JavaScript | Go | [Ruby](./ruby/037.rb) |
-| 038 | C# | C++ | [Python](./python/038.py) | Java | JavaScript | Go | [Ruby](./ruby/038.rb) |
-| 039 | C# | C++ | [Python](./python/039.py) | Java | JavaScript | Go | [Ruby](./ruby/039.rb) |
+|  Nº | C# | C++ | Python                    | Java                    | JavaScript | Go | Ruby                  |
+| --- | -- | --- | ------------------------- | ----------------------- | ---------- | -- | --------------------- |
+| 036 | C# | C++ | [Python](./python/036.py) | [Java](./java/036.java) | JavaScript | Go | [Ruby](./ruby/036.rb) |
+| 037 | C# | C++ | [Python](./python/037.py) | [Java](./java/037.java) | JavaScript | Go | [Ruby](./ruby/037.rb) |
+| 038 | C# | C++ | [Python](./python/038.py) | [Java](./java/038.java) | JavaScript | Go | [Ruby](./ruby/038.rb) |
+| 039 | C# | C++ | [Python](./python/039.py) | [Java](./java/039.java) | JavaScript | Go | [Ruby](./ruby/039.rb) |
 | 040 | C# | C++ | [Python](./python/040.py) | Java | JavaScript | Go | [Ruby](./ruby/040.rb) |
 | 041 | C# | C++ | [Python](./python/041.py) | Java | JavaScript | Go | [Ruby](./ruby/041.rb) |
 | 042 | C# | C++ | [Python](./python/042.py) | Java | JavaScript | Go | [Ruby](./ruby/042.rb) |
